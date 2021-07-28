@@ -2,14 +2,14 @@
 <resources>
     <!--<color name="colorPrimary">#37981B</color>-->
     <!-- Cores Antigas-->
-    <color name="colorPrimary">#FFBE3C</color>
-    <color name="colorPrimaryDark">#37981B</color>
-    <color name="colorAccent">#37981B</color>
+    <color name="colorPrimary">#F5FA6D00</color>
+    <color name="colorPrimaryDark">#F5FA6D00</color>
+    <color name="colorAccent">#F5FA6D00</color>
     <color name="colorOutline">#808080</color>
     <color name="colorGray">#DCDCDC</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorBackgroundApp">#ECECEC</color>
     <color name="ic_organapp_background">#FFFFFF</color>
     <color name="colorBlack">#030303</color>
-    <color name="colorStar">#FFBE3C</color>
+    <color name="colorStar">#EEE36A0D</color>
 </resources>
