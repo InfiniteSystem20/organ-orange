@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Cores Laranja -->
     <!--<color name="colorPrimary">#37981B</color>-->
-    <!-- Cores Antigas-->
-    <color name="colorPrimary">#F5FA6D00</color>
-    <color name="colorPrimaryDark">#F5FA6D00</color>
-    <color name="colorAccent">#F5FA6D00</color>
+    <!--<color name="colorPrimary">#F5FA6D00</color>-->
+    <!-- <color name="colorPrimaryDark">#F5FA6D00</color>-->
+    <!--<color name="colorAccent">#F5FA6D00</color>-->
+    <!-- <color name="colorOutline">#808080</color>-->
+    <!-- <color name="colorGray">#DCDCDC</color>-->
+    <!-- <color name="colorWhite">#FFFFFF</color>-->
+    <!-- <color name="colorBackgroundApp">#ECECEC</color>-->
+    <!-- <color name="ic_organapp_background">#FFFFFF</color>-->
+    <!-- <color name="colorBlack">#030303</color>-->
+   <!-- <color name="colorStar">#EEE36A0D</color>-->
+    <!-- Fim das Cores Laranja -->
+
+    <!-- Cores azuis-->
+    <color name="colorPrimary">#156ac7</color>
+    <color name="colorPrimaryDark">#39aced</color>
+    <color name="colorAccent">#82cafa</color>
     <color name="colorOutline">#808080</color>
     <color name="colorGray">#DCDCDC</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorBackgroundApp">#ECECEC</color>
     <color name="ic_organapp_background">#FFFFFF</color>
     <color name="colorBlack">#030303</color>
-    <color name="colorStar">#EEE36A0D</color>
+    <color name="colorStar">#1f46fd</color>
 </resources>
